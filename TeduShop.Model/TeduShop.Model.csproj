@@ -46,25 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ab\Auditable.cs" />
-    <Compile Include="ab\IAuditable.cs" />
-    <Compile Include="model\Footer.cs" />
-    <Compile Include="model\Menu.cs" />
-    <Compile Include="model\MenuGroup.cs" />
-    <Compile Include="model\Order.cs" />
-    <Compile Include="model\OrderDetail.cs" />
-    <Compile Include="model\Page.cs" />
-    <Compile Include="model\Post.cs" />
-    <Compile Include="model\PostCategory.cs" />
-    <Compile Include="model\PostTag.cs" />
-    <Compile Include="model\Product.cs" />
-    <Compile Include="model\ProductCategory.cs" />
-    <Compile Include="model\ProductTag.cs" />
-    <Compile Include="model\Slide.cs" />
-    <Compile Include="model\SupportOnline.cs" />
-    <Compile Include="model\SystemConfig.cs" />
-    <Compile Include="model\Tag.cs" />
-    <Compile Include="model\VisitorStatistic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
