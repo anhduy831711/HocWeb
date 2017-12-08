@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+=======
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+>>>>>>> 7e4a69fbb03b7a17c013854419730372e3f5d918

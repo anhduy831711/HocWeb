@@ -1,0 +1,116 @@
+<<<<<<< HEAD
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Data.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Model.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Service.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Data.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Model.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Service.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.Web.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.Razor.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+=======
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Data.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Service.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Data.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Model.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Service.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\TeduShop.Web.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+>>>>>>> 7e4a69fbb03b7a17c013854419730372e3f5d918
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Common.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Data.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Service.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Web.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Common.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Data.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Model.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Service.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\TeduShop.Web.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.UnitTest\bin\Debug\EntityFramework.xml

@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+c:\users\eagletran\documents\visual studio 2013\Projects\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+=======
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\EntityFramework.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\EntityFramework.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Source\Repos\TeduShop_TranDuy\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
+>>>>>>> 7e4a69fbb03b7a17c013854419730372e3f5d918
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\EntityFramework.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\EntityFramework.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+C:\Users\EagleTran\Documents\HocWeb\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
