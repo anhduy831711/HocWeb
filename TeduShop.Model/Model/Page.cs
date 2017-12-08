@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace TeduShop.Model.Models
 {
     [Table("Pages")]
-    internal class Page
+    public class Page
     {
         [Key]
         public int ID { get; set; }
